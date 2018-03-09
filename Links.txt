@@ -1,0 +1,2 @@
+http://objectivetester.github.io/wisard/   - Element Identifier
+https://github.com/dzharii/swd-recorder/releases - POM Code generator
